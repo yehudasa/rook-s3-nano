@@ -1,0 +1,6 @@
+apiVersion: object.rook-s3-nano/v1alpha1
+kind: ObjectStore
+metadata:
+  name: objectstore-sample
+spec:
+  # TODO(user): Add fields here
